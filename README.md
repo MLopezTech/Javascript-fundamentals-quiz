@@ -1,6 +1,3 @@
-# Javascript-fundamentals-quiz
-
-
 # Code-Quiz
 
 Javascript quiz
